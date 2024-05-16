@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669711345810",
+    "project_id": "subscriptions-manager-b1027",
+    "storage_bucket": "subscriptions-manager-b1027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669711345810:android:809a0392a5537e378ede4b",
+        "android_client_info": {
+          "package_name": "com.soymilk.dev.SubscriptionsManager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTgb1uh5NVhuUUSgsNbzkZGsdr9dNYXO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
